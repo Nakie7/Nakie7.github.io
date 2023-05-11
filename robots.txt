@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Nakie7.github.io/sitemap.xml
+Sitemap: https://naqihuang.github.io/sitemap.xml
